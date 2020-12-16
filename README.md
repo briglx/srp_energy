@@ -1,5 +1,7 @@
 # srp_energy
 
+_Update this is now part of Home Assistant Core https://github.com/home-assistant/core/releases/tag/2020.12.1_
+
 _Due to [ADR0004](https://github.com/home-assistant/architecture/blob/master/adr/0004-webscraping.md) this integration was removed from [Home Assistant](https://github.com/home-assistant/home-assistant/tree/0.99.0) with version 0.100, and are now republished here._
 
 ⚠️ This integration scrapes a website to get the information!
